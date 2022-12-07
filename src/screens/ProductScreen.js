@@ -5,6 +5,9 @@ function ProductScreen() {
     const { slug } = params;
     return (
         <div>
+            <br></br>
+            <br></br>
+            <br></br>
             <h1>{slug}</h1>
         </div>
     );
